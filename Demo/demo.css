@@ -2,17 +2,3 @@
 	font-family: "Oswald", serif;
 	text-align: center;
 }
-
-body {
-	display: grid;
-	place-items: center;
-}
-
-h1 {
-	margin: 20px;
-}
-
-#timeLineChart {
-	margin: 20px;
-	background-color: #efefef;
-}
