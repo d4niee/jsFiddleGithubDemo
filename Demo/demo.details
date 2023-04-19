@@ -5,6 +5,8 @@ description: A Minimal meistercharts example showing an empty TimeLineChart
 authors:
   - Daniel Lambrecht
   - Neckar IT GmbH
+resources:
+  - https://cdn.skypack.dev/@meistercharts/meistercharts@1.31.0
 normalize_css: yes
 lang_css: SCSS
 ...
