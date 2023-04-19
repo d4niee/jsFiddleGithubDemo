@@ -1,10 +1,18 @@
-$fullred = #ff0000;
+* {
+	font-family: "Oswald", serif;
+	text-align: center;
+}
+
 body {
-	font-family: Helvetica, Verdana
+	display: grid;
+	place-items: center;
 }
-p {
-	padding: 7px 10px;
+
+h1 {
+	margin: 20px;
 }
-#demo { 
-	border: 1px solid $fullred;
+
+#timeLineChart {
+	margin: 20px;
+	background-color: #efefef;
 }
