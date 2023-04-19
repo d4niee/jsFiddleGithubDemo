@@ -1,11 +1,2 @@
-window.addEvent('domready', function() {
-	new Request.HTML({
-		url: '/gh/get/response.html/zalun/jsFiddleGithubDemo/tree/master/Demo/',
-		data: {'delay': 1},
-		method: 'post',
-		update: 'demo',
-		onSuccess: function(response) {
-			$('demo').highlight();
-		}
-	}).send();
-})
+import meistercharts from "https://skypack.dev/@meistercharts/meistercharts@1.31.0";
+const chart = meistercharts.createTimeLineChartFromId("timeLineChart");
