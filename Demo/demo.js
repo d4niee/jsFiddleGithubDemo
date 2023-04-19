@@ -1,3 +1,5 @@
-import meistercharts from "https://cdn.skypack.dev/@meistercharts/meistercharts@1.31.0";
-// create your first chart
-let chart = meistercharts.createTimeLineChartFromId("timeLineChart");
+function handleButtonClick() {
+  console.log('button clicked');
+  let randomColor = Math.floor(Math.random()*16777215).toString(16);
+  document.getElementById('heading').style.color = randomColor;
+}
