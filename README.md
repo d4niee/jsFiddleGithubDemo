@@ -2,3 +2,5 @@ This is a demo of a repository containing a jsFiddle meistercharts minimal examp
 
 ## Open the Fiddle:
 <h1>https://jsfiddle.net/gh/get/library/pure/d4niee/jsFiddleGithubDemo/tree/master/Demo</h1>
+
+<h1>https://jsfiddle.net/gh/get/library/pure/d4niee/jsFiddleGithubDemo/tree/master/meisterchartsDemo</h1>
