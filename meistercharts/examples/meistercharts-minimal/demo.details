@@ -1,0 +1,11 @@
+/*
+---
+name: meistercharts minimal example
+description: A minimal meistercharts example
+authors:
+  - Daniel Lambrecht
+  - Neckar IT GmbH
+normalize_css: yes
+lang_css: SCSS
+...
+*/

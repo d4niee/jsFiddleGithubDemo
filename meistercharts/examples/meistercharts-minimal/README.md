@@ -41,7 +41,7 @@ or just try this code snippet:
 <head>
   <meta charset="UTF-8">
   <title>MeisterCharts Demo</title>
-  <link rel="stylesheet" href="./style.css"/>
+  <link rel="stylesheet" href="demo.css"/>
 </head>
 <body>
 <div class="example">
@@ -53,6 +53,7 @@ or just try this code snippet:
 
   <script type="module">
     import meistercharts from "https://cdn.skypack.dev/@meistercharts/meistercharts@1.31.0";
+
     meistercharts.createTimeLineChartFromId('timeLineChart');
   </script>
 
