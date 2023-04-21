@@ -1,13 +1,14 @@
 /*
 ---
-name: Meistercharts minimal example
-description: A Minimal meistercharts example showing an empty TimeLineChart
+name: meistercharts minimal example
+description: A minimal meistercharts example
 authors:
   - Daniel Lambrecht
   - Neckar IT GmbH
 resources:
   - https://cdn.skypack.dev/@meistercharts/meistercharts@1.31.0
-normalize_css: yes
+normalize_css: no
+load_type: d
 lang_css: SCSS
 ...
 */
